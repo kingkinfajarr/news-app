@@ -1,5 +1,5 @@
-<resources>
-    <string name="app_name">news-app</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">NEWS APP</string>
 
     <!--  News Title  -->
     <string-array name="news_title">
@@ -31,29 +31,29 @@
 
     <!--  News Release Date  -->
     <string-array name="news_release_date">
-        <item>2023-09-23T11:40:21.000Z</item>
-        <item>2023-09-23T11:40:21.000Z</item>
-        <item>2023-09-23T11:40:21.000Z</item>
-        <item>2023-09-23T11:40:21.000Z</item>
-        <item>2023-09-23T11:40:21.000Z</item>
-        <item>2023-09-22T11:40:21.000Z</item>
-        <item>2023-09-22T11:40:21.000Z</item>
-        <item>2023-09-22T11:40:21.000Z</item>
-        <item>2023-09-22T11:40:21.000Z</item>
-        <item>2023-09-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-23T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023–09-22T11:40:21.000Z</item>
     </string-array>
 
     <string-array name="news_link">
-        <item>https://www.cnnindonesia.com/teknologi/20230922204655-185-1002640/cara-bikin-whatsapp-web-enggak-bisa-diintip-orang-lain</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922203037-199-1002632/fakta-fakta-ekuinoks-dikenal-sejak-peradaban-kuno</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922200913-199-1002620/sinar-uv-ekstrem-melanda-saat-ekuinoks-tiba-simak-daftar-daerahnya</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922135650-199-1002433/fenomena-ekuinoks-terjadi-hari-ini-cek-jadwal-lengkapnya</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922102823-187-1002321/foto-ramai-ramai-serbu-tokyo-game-show-2023</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922192710-185-1002609/viral-muka-orang-dijadikan-stiker-wa-bisa-dipidana-apa-kata-pakar</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922213432-190-1002654/strategi-menkominfo-gencar-berantas-judi-online-perkuat-kolaborasi</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922170827-213-1002565/rampungkan-aso-kominfo-geber-pemerataan-5g</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922114118-208-1002365/foto-cerita-perburuan-massal-iphone-15-di-china</item>
-        <item>https://www.cnnindonesia.com/teknologi/20230922160419-192-1002536/analis-ungkap-influencer-pro-ganjar-dominan-di-medsos</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922204655-185-1002640/cara-bikin-whatsapp-web-enggak-bisa-diintip-orang-lain</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922203037-199-1002632/fakta-fakta-ekuinoks-dikenal-sejak-peradaban-kuno</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922200913-199-1002620/sinar-uv-ekstrem-melanda-saat-ekuinoks-tiba-simak-daftar-daerahnya</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922135650-199-1002433/fenomena-ekuinoks-terjadi-hari-ini-cek-jadwal-lengkapnya</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922102823-187-1002321/foto-ramai-ramai-serbu-tokyo-game-show-2023</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922192710-185-1002609/viral-muka-orang-dijadikan-stiker-wa-bisa-dipidana-apa-kata-pakar</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922213432-190-1002654/strategi-menkominfo-gencar-berantas-judi-online-perkuat-kolaborasi</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922170827-213-1002565/rampungkan-aso-kominfo-geber-pemerataan-5g</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922114118-208-1002365/foto-cerita-perburuan-massal-iphone-15-di-china</item>
+        <item tools:ignore="TypographyDashes">https://www.cnnindonesia.com/teknologi/20230922160419-192-1002536/analis-ungkap-influencer-pro-ganjar-dominan-di-medsos</item>
     </string-array>
 
     <!--  News Images  -->
