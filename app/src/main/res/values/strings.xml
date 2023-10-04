@@ -1,5 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">NEWS APP</string>
+    <string name="title">title</string>
+    <string name="description">desc</string>
+    <string name="about_me">About Me</string>
+    <string name="name">Kingkin Fajar Anifianto</string>
+    <string name="about_desc">Hi, I\'m Kingkin Fajar Anifianto, people who know me usually call me Kingkin (20), Developer who also likes to make UI Design, passionate about programming after graduating from junior high school, I continue to study at a vocational high school majoring in software engineering.\n\nI focus on Frontend Development, for now, I spend a lot of time to explore about Frontend Development using React JS, Next JS and also explore about mobile development using Flutter.</string>
+    <string name="share">Bagikan</string>
+    <string name="date">date</string>
+    <string name="read_more">Baca Selengkapnya :</string>
+    <string name="email">kingkinnfajar@gmail.com</string>
 
     <!--  News Title  -->
     <string-array name="news_title">
@@ -40,7 +49,7 @@
         <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
         <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
         <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
-        <item tools:ignore="TypographyDashes">2023–09-22T11:40:21.000Z</item>
+        <item tools:ignore="TypographyDashes">2023-09-22T11:40:21.000Z</item>
     </string-array>
 
     <string-array name="news_link">
@@ -57,7 +66,7 @@
     </string-array>
 
     <!--  News Images  -->
-    <integer-array name="news_images">
+    <string-array name="news_images">
         <item>@drawable/news_image_1</item>
         <item>@drawable/news_image_2</item>
         <item>@drawable/news_image_3</item>
@@ -68,6 +77,6 @@
         <item>@drawable/news_image_8</item>
         <item>@drawable/news_image_9</item>
         <item>@drawable/news_image_10</item>
-    </integer-array>
+    </string-array>
 
 </resources>
